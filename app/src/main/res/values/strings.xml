@@ -1,0 +1,24 @@
+<resources>
+  <string name="app_name">Treble Checker</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="Treble">Treble Status</string>
+  <string name="seamless">Seamless Updates</string>
+  <string name="root_status">Root Status</string>
+  <string name="treble"><b>Project Treble</b></string>
+  <string name="what">Android updates go through a long journey before they reach user devices. They start from Google’s development labs before heading to driver creation by component manufacturers, and then firmware implementation and testing by manufacturers and network operators so its a long wait for "just" an update as the whole process can take six months or more.</string>
+  <string name="what2"> Android O receives a standardized vendor interface. This defines the interface that the Android framework uses to access vendor implementation. Through Project Treble, it will be possible to update Android software independently from the vendor implementation.</string>
+  <string name="seamless1"><b>Seamless Updates</b></string>
+  <string name="seamless_des">Android Nougat introduced support for seamless updates with the A/B partition system. Devices that support the new partition system have two sets of partitions, a_slot and b_slot."\n" The term “seamless updates” is used because all updates are now downloaded to the inactive slot. When a user reboots to finish installing, the device seamlessly switches over to the inactive slot, thereby eliminating downtime. User data is shared between the partitions.</string>
+  <string name="Root"><b>Root Status</b></string>
+  <string name="card_title1"><b>What is Root?</b></string>
+  <string name="card_content1">Rooting is the process of allowing users of smartphones, tablets and other devices running the Android mobile operating system to attain privileged control over various Android subsystems</string>
+  <string name="card_content2">Gaining root access on Android is akin to running Windows as an administrator. You have full access to the system directory and can make changes to the way the OS operates. As part of rooting, you install usage manager (SuperSU is the main one right now). These tools are basically the gatekeeper of root access on your phone. </string>
+  <string name="card_title2"><b>Why Root?</b></string>
+  <string name="card_title3"><b>How To Root</b></string>
+  <string name="card_content3"><b>Rooting a device may void the warranty on the device. It may also make the device unstable or if not done properly, may completely brick the device. Some methods may install additional apps/software on your device.\n</b></string>
+  <string name="read_more">Read More</string>
+  <string name="project_treble"><b>What is Project Treble?</b></string>
+  <string name="seamless_updates">What is Seamless Updates ?</string>
+</resources>
